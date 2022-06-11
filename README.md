@@ -1,7 +1,7 @@
 # DQura - Daniel Qura portfolio
 
 Hosted on cloudflare pages
-[dqura.pages.dev]
+https://dqura.pages.dev/
 
 Hosted on github pages
-[danielqura.github.io/dqura]
+https://danielqura.github.io/dqura/
